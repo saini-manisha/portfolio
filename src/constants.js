@@ -2,7 +2,7 @@
 import cLogo from "./assets/tech_logo/c.png";
 import cppLogo from "./assets/tech_logo/cpp.png";
 import cssLogo from './assets/tech_logo/css.png';
-import figmaLogo from './assets/tech_logo/figmaLogo.png';
+import figmaLogo from './assets/tech_logo/figma.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import htmlLogo from './assets/tech_logo/html.png';
@@ -20,7 +20,7 @@ import accLogo from './assets/company_logo/acc_logo.png';
 
 // Eduction section logo
 
-import kukLogo from './assets/education_logo/Kurukshetra_University_logo.png';
+// import kukLogo from './assets/education_logo/Kurukshetra_University_logo.png';
 
 
 export const SkillsInfo = [
@@ -47,7 +47,7 @@ export const SkillsInfo = [
         ]
     },
     {
-        titles: 'tools',
+        title: 'tools',
         skills: [
             { name: 'Git', logo: gitLogo },
             { name: 'GitHub', logo: githubLogo },
